@@ -1,0 +1,14 @@
+# a=20
+# b=30
+# print(a+b)
+# myvar=10
+# print(myvar)
+# _=10
+# print(_)
+# My_var=30
+# print(My_var)
+# shu1991882=20
+# adu989898='apple'
+# print(adu989898,shu1991882)
+# a,b,c,d,e=1,2,8,9,0
+# print(a,b,c,d,e)
